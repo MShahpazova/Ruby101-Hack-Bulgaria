@@ -1,0 +1,8 @@
+<h2>Tasks</h2>
+
+<% @tasks.each do |task| %>
+  <p><%= link_to task.name, edit_lecture_task_path(@lecture, task) %></p>
+<% end %>
+
+<%= link_to "Add new task", new_lecture_task_path(@lecture), :style=>'color: green;' %>
+

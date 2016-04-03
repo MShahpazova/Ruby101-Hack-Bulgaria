@@ -1,0 +1,8 @@
+<% @tweets.each do |tweet| %>
+<p><%= tweet.text %></p> 
+<ul>
+  <li><%= tweet.text if tweet.text.include?('no')
+    
+  end</li>
+</ul>
+<% end %>

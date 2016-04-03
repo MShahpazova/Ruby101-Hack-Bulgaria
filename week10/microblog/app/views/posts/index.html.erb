@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+
+<!-- 
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Content</th>
+      <th colspan="2"></th>
+    </tr>
+  </thead>
+
+  <tbody> -->
+  <h1>Listing Posts</h1>
+    <% @posts.each do |post| %>
+      <!-- <tr> -->
+        <!-- <td><%= link_to post.name, post %></td> -->
+        <hr />
+        <h2><%= link_to post.name, post %></h2>
+        <p><%= link_to 'post.content', post %></p>
+        
+        <!-- <div><%= link_to post.name, post %><div/> -->
+        <!-- <td><%= post.content %></td> -->
+        <!-- <td><%= link_to 'Show', post %></td> -->
+        <!-- <td><%= link_to 'Edit', edit_post_path(post) %></td> -->
+        <!--  <td><%= link_to 'Destroy', post, method:  :delete, data: { confirm: 'Are you sure?' } %></td> -->
+      <!-- </tr> -->
+    <% end %>
+<!--   </tbody>
+</table> -->
+
+<br>
+
+<%= link_to 'New Post', new_post_path %>

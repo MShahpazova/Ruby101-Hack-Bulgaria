@@ -1,0 +1,8 @@
+<h2>Create Lecture</h2>
+
+<%= form_for(@lecture) do |f| %>
+  <%= f.label :name %> <%= f.text_field :name %>
+  <%= f.label :text_body %> <%= f.text_area :text_body %>
+
+  <%= f.submit %>
+<% end %>

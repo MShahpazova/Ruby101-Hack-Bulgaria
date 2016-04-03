@@ -1,0 +1,17 @@
+<h1>Editing lecture</h1>
+
+<%= render 'lecture' %>
+<br/>
+<br/>
+
+  <%= link_to 'View tasks', lecture_tasks_path(@lecture) %>
+<br/>
+<%= link_to 'Add task', new_lecture_task_path(@lecture) %>
+<br/>
+<%= link_to 'Back to lectures', lectures_path %>
+<br/>
+<%= link_to 'Delete lecture', @lecture, method: :delete, data: { confirm: 'Are you sure?'} %>
+
+
+
+

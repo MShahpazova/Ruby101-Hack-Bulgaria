@@ -1,0 +1,14 @@
+<p>
+<strong>name:</strong>
+<%= @task.name %>
+</p>
+
+<p>
+  <strong>Content</strong>
+  <%= @task.description %>
+</p>
+
+<%= link_to "Submit solution", new_lecture_task_solution_path(@lecture, @task) %>
+
+
+<%= link_to "View solutions", lecture_task_solutions_path(@lecture, @task) %>

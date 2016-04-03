@@ -1,0 +1,7 @@
+name=Maria, gender=f, email=mshahpazova@gmail.com has friends: 
+name=Iva, gender=f, email=iva@hotmail.com
+name=Nikola, gender=m, email=nshahpazov@gmail.com
+name=Iva, gender=f, email=iva@hotmail.com has friends: 
+name=Maria, gender=f, email=mshahpazova@gmail.com
+name=Nikola, gender=m, email=nshahpazov@gmail.com has friends: 
+name=Maria, gender=f, email=mshahpazova@gmail.com

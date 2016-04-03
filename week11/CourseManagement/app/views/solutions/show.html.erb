@@ -1,0 +1,4 @@
+<p id="notice"> <%= notice %> </p>
+<%= form_for(@solution, url: lecture_task_solutions_path(lecture, task)) do |f| %>
+<%= render @solution f: f %>
+<% end %>

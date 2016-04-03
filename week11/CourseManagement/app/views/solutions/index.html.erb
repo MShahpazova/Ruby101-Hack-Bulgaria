@@ -1,0 +1,4 @@
+<% @solutions.each do |solution| %>
+<p class="solution"> <%= solution.inspect %></p>
+<% end %>
+<%= link_to "Create", new_lecture_task_solution_path %>

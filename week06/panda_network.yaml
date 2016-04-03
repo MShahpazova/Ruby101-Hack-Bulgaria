@@ -1,0 +1,33 @@
+---
+? &2 !ruby/object:Panda
+  name: Ivan
+  gender: m
+  email: ivan@abv.bg
+: - &1 !ruby/object:Panda
+    name: Krisi
+    gender: f
+    email: krisi@hotmail.com
+*1:
+- *2
+- &3 !ruby/object:Panda
+  name: Nikola
+  gender: m
+  email: nshahpazov@gmail.com
+*3:
+- *1
+- &4 !ruby/object:Panda
+  name: Iva
+  gender: f
+  email: iva@hotmail.com
+*4:
+- *3
+? &6 !ruby/object:Panda
+  name: Petya
+  gender: f
+  email: petya@hotmail.com
+: - &5 !ruby/object:Panda
+    name: Geri
+    gender: f
+    email: geri@yahoo.com
+*5:
+- *6

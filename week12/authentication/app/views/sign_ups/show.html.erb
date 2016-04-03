@@ -1,0 +1,17 @@
+<% if flash[:notice] %>
+<p> <%= flash[:notice]%></p>
+<% end %>
+<%= form_for(@user, url: sign_up_path) do |f| %>
+  <div> <%= f.label :name %>
+  <%= f.text_field :name %></div>
+
+  <div> <%= f.label :password %>
+  <%= f.password_field :password %></div> 
+
+  <div><%= f.label :password_confirmation%>
+  <%= f.password_field :password_confirmation %> </div> 
+  
+ <div> <%= f.label :email %>  
+  <%= f.email_field :email %> </div> 
+  <%= f.submit "Submit" %>
+ <% end %>

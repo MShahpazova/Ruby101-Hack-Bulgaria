@@ -1,0 +1,4 @@
+<h2>Create task</h2>
+<%= form_for(@task, url: lecture_tasks_path(@lecture)) do |f|%>
+<%= render @task, f: f %>
+<% end %>

@@ -1,0 +1,19 @@
+
+<%= form_for(@user, url: sign_in_path) do |f| %>
+
+  <%= f.label :email %>
+  <%= f.email_field :email %>
+
+  <%= f.label :password %>
+  <%= f.password_field :password %>
+
+  <%= check_box_tag :remember_me %>
+  <%= label_tag :remember_me, class:"checkbox inline" do %>
+
+  <span>Remember me on this computer</span>
+  <% end %>
+  <%= f.submit "Submit" %>
+
+ <div><%= link_to "Sign up", sign_up_path, :style=>'color: red;' %></div>
+ <% end %>
+  
