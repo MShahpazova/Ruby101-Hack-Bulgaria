@@ -5,27 +5,6 @@
 # end
 # puts integer_to_list_digits(ARGV[0].to_i)
 
-
-def max_consecutive(items)	
-	allValues = items.join("")
-	uniqueValues = items.uniq
-    count = 0
-    list = []
-	while count < uniqueValues.length
-		char = uniqueValues[count]
-		a = allValues.scan(/[#{char}]+/)
-    p a
-		list << a
-		count += 1
-	end
-	list.flatten
-	str = list.join(" ")
-	
-	# str.split(" ").max_by(&:length).length
-	list.max_by(&:length).length
-end
-puts max_consecutive([1,2,3,3,33,33,4,3,3])	
-
 def nth_lucas(n)
 	a = 0
 	b = 1
