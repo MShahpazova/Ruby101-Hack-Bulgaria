@@ -352,8 +352,4 @@ network.load_xml("panda_network.xml")
 #     /////
 #   else 
 #    panda1.friends.each {|friend| search_friends (friend, Panda2)}
-    
-# bfs -       # Nesho s panda
-      # Za vseki neobhoden sused na panda
-      # Dobavqne vuv visited
-    #   # Dobavqme vuv queue s level + 1 
+
