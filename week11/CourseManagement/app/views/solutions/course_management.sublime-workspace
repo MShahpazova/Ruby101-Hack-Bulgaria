@@ -1,0 +1,1393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"to_sym"
+			],
+			[
+				"all",
+				"all_photos"
+			],
+			[
+				"be",
+				"before_action"
+			],
+			[
+				"current",
+				"current_page"
+			],
+			[
+				"cu",
+				"current_page"
+			],
+			[
+				"up",
+				"uploaded_io"
+			],
+			[
+				"co",
+				"cookies"
+			],
+			[
+				"first",
+				"first_or_create"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"count",
+				"count_vowels"
+			],
+			[
+				"sum",
+				"sum_factorials"
+			],
+			[
+				"fa",
+				"factorial_digits"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"passwo",
+				"password_confirmation"
+			],
+			[
+				"so",
+				"solution"
+			],
+			[
+				"ta",
+				"task_id"
+			],
+			[
+				"para",
+				"task_params"
+			],
+			[
+				"lect",
+				"lecture_id"
+			],
+			[
+				"le",
+				"lecture_id"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"category",
+				"category_params"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"params",
+				"brand_params"
+			],
+			[
+				"ins",
+				"instance_eval"
+			],
+			[
+				"mi",
+				"miau"
+			],
+			[
+				"inst",
+				"instance_method"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"wh",
+				"whiskers"
+			],
+			[
+				"v",
+				"variable"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"hash",
+				"hash"
+			],
+			[
+				"h",
+				"hsh"
+			],
+			[
+				"ma",
+				"map_hash"
+			],
+			[
+				"met",
+				"method_name"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"meth",
+				"method1"
+			],
+			[
+				"method",
+				"method2"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"Stir",
+				"StringInquirer"
+			],
+			[
+				"String",
+				"StringInquirer"
+			],
+			[
+				"res",
+				"respond_to"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"instance_varia",
+				"instance_variable_get"
+			],
+			[
+				"fe",
+				"feed	func"
+			],
+			[
+				"me",
+				"method_name"
+			],
+			[
+				"target",
+				"target_object"
+			],
+			[
+				"put",
+				"puts_target_object"
+			],
+			[
+				"si",
+				"singleton_class"
+			],
+			[
+				"form",
+				"format_promotion_product"
+			],
+			[
+				"Te",
+				"TEXT_FORMATTER"
+			],
+			[
+				"In",
+				"InvoiceFormatter"
+			],
+			[
+				"tes",
+				"test_string_format"
+			],
+			[
+				"cou",
+				"coupon_name"
+			],
+			[
+				"cal",
+				"calculate_discounts"
+			],
+			[
+				"ca",
+				"calculate_total_without_discounts"
+			],
+			[
+				"t",
+				"to_d"
+			],
+			[
+				"Free",
+				"free_items"
+			],
+			[
+				"free",
+				"free_items"
+			],
+			[
+				"products",
+				"products_added"
+			],
+			[
+				"produc",
+				"products_added"
+			],
+			[
+				"tr",
+				"truncate"
+			],
+			[
+				"get",
+				"get_product"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"va",
+				"value_promotion"
+			],
+			[
+				"name",
+				"name_promotion"
+			],
+			[
+				"th",
+				"Threshhold"
+			],
+			[
+				"dis",
+				"discount_type"
+			],
+			[
+				"ite",
+				"items_on_discount"
+			],
+			[
+				"amou",
+				"amount_on_promo"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"promot",
+				"promotion_kind"
+			],
+			[
+				"total",
+				"total_sum"
+			],
+			[
+				"prod",
+				"products_added"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"p",
+				"products_added"
+			],
+			[
+				"ne",
+				"new_cart"
+			],
+			[
+				"add",
+				"add_product"
+			],
+			[
+				"n",
+				"new_cart"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"P",
+				"PRICE_BOTTOM_BOUNDARY"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"load",
+				"load_xml"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"x",
+				"xml"
+			],
+			[
+				"bu",
+				"builder"
+			],
+			[
+				"save",
+				"save_xml"
+			],
+			[
+				"fi",
+				"first_value"
+			],
+			[
+				"pan",
+				"panda_network"
+			],
+			[
+				"sav",
+				"save_xml"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"ope",
+				"open"
+			],
+			[
+				"pand",
+				"panda_network"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ge",
+				"gender_to_count"
+			],
+			[
+				"fin",
+				"find_connection_level"
+			],
+			[
+				"frie",
+				"friend"
+			],
+			[
+				"panda",
+				"panda"
+			],
+			[
+				"S",
+				"StandardError"
+			],
+			[
+				"Tes",
+				"test"
+			],
+			[
+				"Pa",
+				"Panda"
+			],
+			[
+				"fr",
+				"friends_of"
+			],
+			[
+				"are",
+				"are_friends"
+			],
+			[
+				"Pad",
+				"PandasAlreayFriends"
+			],
+			[
+				"ha",
+				"has_panda"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"lo",
+				"load_file"
+			],
+			[
+				"sa",
+				"save_panda_network"
+			],
+			[
+				"Pan",
+				"Panda"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"nu",
+				"num_arr"
+			],
+			[
+				"num",
+				"num_arr"
+			],
+			[
+				"is",
+				"is_number_balanced"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"su",
+				"sum_digits_in_string"
+			],
+			[
+				"A",
+				"ARGV"
+			],
+			[
+				"che",
+				"check_if_prime"
+			],
+			[
+				"ch",
+				"check_for_hack_number"
+			],
+			[
+				"rev",
+				"reversed"
+			],
+			[
+				"number",
+				"number_of_digits"
+			],
+			[
+				"l",
+				"lucas_series"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "new.html.erb",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_solution.html.erb",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html.erb",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"enable li",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublime ena",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"sublime ",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"class",
+				"Snippet: class .. initialize .. end"
+			],
+			[
+				"new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"snippet class",
+				"Snippet: class .. end"
+			],
+			[
+				"snippet",
+				"Snippet: def … end"
+			],
+			[
+				"snippet controller",
+				"Snippet: Create controller class"
+			],
+			[
+				"",
+				"Snippet: Create controller class"
+			],
+			[
+				"toggle ",
+				"Toggle Comment"
+			],
+			[
+				"locate",
+				"File: Locate"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"set synt css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 606.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/maria/Desktop/Programming101-Ruby/week11",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/app",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/app/controllers",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/app/views",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/app/views/solutions"
+	],
+	"file_history":
+	[
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/app/views/solutions/course_management.sublime-project",
+		"/home/maria/Desktop/notes",
+		"/home/maria/Desktop/notes2",
+		"/home/maria/githubprojects/JavaProblems/.git/COMMIT_EDITMSG",
+		"/home/maria/Desktop/notebook/app/controllers/pages_controller.rb",
+		"/home/maria/projects/cards-project/.rubocop.yml",
+		"/home/maria/Desktop/Programming101-Ruby/card_game/alabala.rb",
+		"/home/maria/projects/cards-project/.git/MERGE_MSG",
+		"/home/maria/Desktop/Programming101-Ruby/card_game/card2.rb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/views/pages/show.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/db/migrate/20160501194641_create_poems.rb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/controllers/photos_controller.rb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/controllers/poems_controller.rb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/config/environments/production.rb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/config/initializers/assets.rb",
+		"/home/maria/Desktop/sky-scrapers-chicago-blue-city-landscape-dual-monitor-117928.jpg",
+		"/home/maria/Videos/logged.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/views/sign_ins/show.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/controllers/sign_outs_controller.rb",
+		"/show.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/views/sign_ups/show.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/notebook/app/views/sign_ups.html.erb",
+		"/home/maria/Desktop/poetry_place/public/robots.txt",
+		"/home/maria/Desktop/poetry_place/app/models/photo.rb",
+		"/home/maria/Desktop/poetry_place/app/views/photos/new.html.erb",
+		"/home/maria/Desktop/poetry_place/app/views/photos/show.html.erb",
+		"/home/maria/Desktop/poetry_place/app/views/dashboards/index.html.erb",
+		"/home/maria/Desktop/poetry_place/app/controllers/personal_spaces_controller.rb",
+		"/home/maria/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/maria/Desktop/project/.git/COMMIT_EDITMSG",
+		"/home/maria/Desktop/Programming101-Ruby/poetry_place/db/migrate/20160407164142_create_personal_space.rb",
+		"/home/maria/Desktop/Programming101-Ruby/poetry_place/app/controllers/SignInsController.rb",
+		"/home/maria/Desktop/Programming101-Ruby/poetry_place/app/models/author.rb",
+		"/home/maria/Desktop/Programming101-Ruby/poetry_place/db/migrate/20160407162532_create_user_chosen_poem.rb",
+		"/home/maria/Desktop/Programming101-Ruby/.git/COMMIT_EDITMSG",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems-Mine/warm_up_each.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/2-List-and-Hashes/solutions2.rb",
+		"/home/maria/Desktop/practice_ruby/problems",
+		"/home/maria/Desktop/Programming101-Ruby/week13/semantic-tweets/app/views/index.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/week13/problems/db/test.sqlite3",
+		"/home/maria/Desktop/Programming101-Ruby/week12/authentication/app/controllers/sign_ups_controller.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week12/authentication/app/views/profiles",
+		"/home/maria/Desktop/Programming101-Ruby/week12/authentication/app/controllers/sign_ins_controller.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week12/authentication/app/views/sign_up/show.html.erb",
+		"/home/maria/Desktop/Programming101-Ruby/week12/authentication/app/controllers/sign_upController.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week11/CourseManagement/db/migrate/20160225143705_create_solutions.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week10/online-store/app/models/Search",
+		"/home/maria/Desktop/Programming101-Ruby/week07/meta_fmi.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/3-My-Enumerable/solution.rb",
+		"/home/maria/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/maria/Desktop/Programming101-Ruby/week09/new.erb",
+		"/home/maria/Desktop/Programming101-Ruby/week07/active_support",
+		"/home/maria/Desktop/Programming101-Ruby/week07/around_method",
+		"/home/maria/Desktop/Programming101-Ruby/week07/fmi",
+		"/home/maria/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/maria/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/maria/Desktop/Programming101-Ruby/week06/panda_network.xml",
+		"/home/maria/Desktop/Programming101-Ruby/week03/3-My-Enumerable/solution_test.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week06/save_panda_network.txt",
+		"/home/maria/Desktop/Programming101-Ruby/week01/hello.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems/warmup.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week06/RomanNumbers.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week06/panda_network.json",
+		"/home/maria/Desktop/Programming101-Ruby/week06/panda_network.yaml",
+		"/home/maria/Desktop/Programming101-Ruby/week06/tests_panda.rb",
+		"/home/maria/.config/sublime-text-3/Packages/User/init-rb.sublime-snippet",
+		"/home/maria/Desktop/Programming101-Ruby/week05/1-Shopping-Cart/shoppingCart.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week06/panda.rb",
+		"/home/maria/.config/sublime-text-3/Packages/User/BeautifyRuby.sublime-settings",
+		"/home/maria/.config/sublime-text-3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/home/maria/.config/sublime-text-3/Packages/BeautifyRuby/Default (Linux).sublime-keymap",
+		"/home/maria/Desktop/Programming101-Ruby/week06/RomanNumbers",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1.HashesAndLists.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems-Mine/warmup.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems.rb/warm_up_each.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week04/pandasNetwork",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems/good_solutions.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems-Mine/warm_up_resolve.rb",
+		"/home/maria/Desktop/Programming101-Ruby/README.md",
+		"/home/maria/Desktop/Programming101-Ruby/panda.rb",
+		"/home/maria/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/maria/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/maria/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/maria/githubprojects/Panda/Panda.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/2-List-and-Hashes/README.md",
+		"/home/maria/Desktop/Programming101-Ruby/week03/3-My-Enumerable/Gemfile",
+		"/home/maria/Desktop/Programming101-Ruby/week04/music_catalog.rb",
+		"/home/maria/Downloads/Homework-CSS Overview Ready/World Cup Brazil/HTML file1.html",
+		"/home/maria/Downloads/Homework-CSS Overview Ready/World Cup Brazil/css file1.css",
+		"/home/maria/Desktop/6. CSS-Overview-Demos/6. size-values.html",
+		"/home/maria/Desktop/6. CSS-Overview-Demos/2.1. inline-styles.html",
+		"/home/maria/Desktop/Programming101-Ruby/week03/3-My-Enumerable/first_solution.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/2-Patch-Hash/first_solution.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/block_magic.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week04/2-Polynoms-And-Derivates/solution.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week04/protected.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/3-My-Enumerable/music_catalog",
+		"/home/maria/Desktop/Programming101-Ruby/music_catalog.rb",
+		"/home/maria/Desktop/Programming101-Ruby/music_catalog",
+		"/home/maria/Desktop/Programming101-Ruby/week03/1-fmi-tribute/number_set.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week04/game_of_life.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/1-fmi-tribute/Rakefile",
+		"/home/maria/Desktop/Programming101-Ruby/week02/3-Resolve-with-each/resolve_each.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/collection.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week02/vector2D.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week02/1-Points/plane.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/1-fmi-tribute/NumberSet.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/2-Patch-Hash/README.md",
+		"/home/maria/Desktop/Programming101-Ruby/week03/2-Patch-Hash/solution.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems.rb/warmup.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/1-fmi-tribute/solution.rb",
+		"/home/maria/Downloads/2.2. Semantic-HTML-And-Other-Tags-Exercise(1)/2.2. Non-Semantic-HTML.html",
+		"/home/maria/Desktop/untitled",
+		"/home/maria/Desktop/Programming101-Ruby/week03/2-Patch-Hash/Solution",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems/firstWarmup.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems.rb/firstWarmup.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week03/1-fmi-tribute/solution_test.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems.rb/warmup_each",
+		"/home/maria/Desktop/Programming101-Ruby/week01/WarmUpProblems.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week02/vector3D.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week02/vector.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1-Warmup-Problems/README.md",
+		"/home/maria/Desktop/Programming101-Ruby/week01/test.rb",
+		"/home/maria/Desktop/Programming101-Ruby/week02/Vector",
+		"/home/maria/Desktop/Programming101-Ruby/week02",
+		"/home/maria/Desktop/Programming101-Ruby/week01/1.HashesAndLists"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'",
+			"\"",
+			"alt+shift",
+			"line",
+			"toggle",
+			"\n     ",
+			"params",
+			"data",
+			"binary",
+			"image_file",
+			":data",
+			"data",
+			"longest_subsequence_equal_elements",
+			"max",
+			"-",
+			"luca",
+			"fixture",
+			"sprockets-rails ",
+			"submit",
+			"submit solution",
+			"submit solutions",
+			"task",
+			"t",
+			"tasks_path",
+			"def",
+			"\n<%",
+			"<%",
+			"Nikola",
+			"tasks.",
+			"hsh",
+			"self",
+			"Inventory",
+			"Cart",
+			"calcu",
+			"puts",
+			")\n",
+			"puts",
+			"{",
+			"products_in_the_shop",
+			"path",
+			"network",
+			"==",
+			"gender_to_count",
+			"friends_of",
+			"friends",
+			"friend",
+			"friends",
+			"are_friends",
+			">= ",
+			"sum_of_digitsm",
+			"sum_digits_in_string",
+			"full_screen",
+			"side_bar",
+			"factorial",
+			"the",
+			"factorial",
+			"faktorial",
+			"panda",
+			"    	     ",
+			"      ",
+			"song_contains_tag",
+			"   def subgenre\n   	@subgenre\n   end",
+			")\n",
+			"true",
+			"Vector",
+			"(/+\"[\"+",
+			"puts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_solution.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html.erb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "course_management.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"",
+				"cards-game/Gemfile"
+			],
+			[
+				"gemf",
+				"cards-game/Gemfile"
+			],
+			[
+				"card.rb",
+				"cards/lib/cards/card.rb"
+			],
+			[
+				"gemfile",
+				"cards-game/Gemfile"
+			],
+			[
+				"cards.rb",
+				"cards/lib/cards.rb"
+			],
+			[
+				"index.r",
+				"~/projects/cards-project/cards-game/index.rb"
+			],
+			[
+				"de",
+				"deck.rb"
+			],
+			[
+				"ca",
+				"card.rb"
+			],
+			[
+				"all",
+				"app/views/pages/all_photos.html"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"new",
+				"app/views/pages/new_photo.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"show",
+				"app/views/photos/show.html.erb"
+			],
+			[
+				"create",
+				"app/views/photos/create.html.erb"
+			],
+			[
+				"page",
+				"app/models/page.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"migratephot",
+				"db/migrate/20160502185141_create_photos.rb"
+			],
+			[
+				"migra",
+				"db/migrate/20160502185141_create_photos.rb"
+			],
+			[
+				"photo",
+				"app/controllers/photos_controller.rb"
+			],
+			[
+				"public",
+				"public/404.html"
+			],
+			[
+				"erb",
+				"config/environment.rb"
+			],
+			[
+				"photoco",
+				"app/controllers/photos_controller.rb"
+			],
+			[
+				"migratecreate",
+				"db/migrate/20160502185141_create_photos.rb"
+			],
+			[
+				"photoerb",
+				"app/views/photos/new.html.erb"
+			],
+			[
+				"photo.erb",
+				"app/views/photos/new.html.erb"
+			],
+			[
+				"photos",
+				"app/controllers/photos_controller.rb"
+			],
+			[
+				"con",
+				"config/routes.rb"
+			],
+			[
+				"videos",
+				"~/Videos/logged.html.erb"
+			],
+			[
+				"logged",
+				"~/Videos/logged.html.erb"
+			],
+			[
+				"personal",
+				"app/models/personal_space.rb"
+			],
+			[
+				"res",
+				"week02/3-Resolve-with-each/resolve_each.rb"
+			],
+			[
+				"fixtures",
+				"test/fixtures/tasks.yml"
+			],
+			[
+				"fixture",
+				"test/fixtures/users.yml"
+			],
+			[
+				"test",
+				"db/test.sqlite3"
+			],
+			[
+				"runne",
+				"app/jobs/solution_runner_job.rb"
+			],
+			[
+				"user_tes",
+				"test/models/user_test.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"index",
+				"CourseManagement/app/views/solutions/index.html.erb"
+			],
+			[
+				"css",
+				"CourseManagement/app/assets/stylesheets/solutions.scss"
+			],
+			[
+				"migrate",
+				"CourseManagement/db/migrate/20160307144612_create_solutions.rb"
+			],
+			[
+				"_",
+				"CourseManagement/tmp/cache/assets/sprockets/v3.0/1KCLcST5pAXY56LxKFP__0cQcd24_a873ZXKGQs5ap4.cache"
+			],
+			[
+				"solutcon",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"taskcon",
+				"CourseManagement/app/controllers/tasks_controller.rb"
+			],
+			[
+				"solutco",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"solut",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"task",
+				"CourseManagement/app/models/task.rb"
+			],
+			[
+				"sol",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"schema",
+				"CourseManagement/db/schema.rb"
+			],
+			[
+				"solu",
+				"CourseManagement/app/models/solution.rb"
+			],
+			[
+				"solucon",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"_solu",
+				"CourseManagement/app/views/solutions/_solution.html.erb"
+			],
+			[
+				"taskco",
+				"CourseManagement/app/controllers/tasks_controller.rb"
+			],
+			[
+				"lecturecon",
+				"CourseManagement/app/controllers/lectures_controller.rb"
+			],
+			[
+				"soluco",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"soluc",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"controller",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"migratecreate_ta",
+				"CourseManagement/db/migrate/20160225134349_create_tasks.rb"
+			],
+			[
+				"lecture",
+				"CourseManagement/app/models/lecture.rb"
+			],
+			[
+				"tasksnew",
+				"CourseManagement/app/views/tasks/new.html.erb"
+			],
+			[
+				"newsol",
+				"CourseManagement/app/views/solutions/new.html.erb"
+			],
+			[
+				"solutionco",
+				"CourseManagement/app/controllers/solutions_controller.rb"
+			],
+			[
+				"_tas",
+				"CourseManagement/app/views/tasks/_task.html.erb"
+			],
+			[
+				"confroutes",
+				"CourseManagement/config/routes.rb"
+			],
+			[
+				"_task",
+				"CourseManagement/app/views/tasks/_task.html.erb"
+			],
+			[
+				"edit",
+				"CourseManagement/app/views/tasks/edit.html.erb"
+			],
+			[
+				"views_task",
+				"CourseManagement/app/views/tasks/_task.html.erb"
+			],
+			[
+				"views",
+				"CourseManagement/app/views/tasks/_task.html.erb"
+			],
+			[
+				"n",
+				"CourseManagement/app/views/tasks/new.html.erb"
+			],
+			[
+				"config",
+				"config/database.yml"
+			],
+			[
+				"applicc",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"wel",
+				"app/controllers/welcome_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/notebook/app/views/photos/notebook.sublime-project"
+			],
+			[
+				"c",
+				"~/Documents/sublime-projects/cards.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
