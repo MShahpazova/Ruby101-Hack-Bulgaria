@@ -1,0 +1,28 @@
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h1><%= @my_name %></h1>
+<h2>Lectures</h2>
+
+
+
+<% @lectures.each do |lecture| %>
+  <div> <%= link_to lecture.name, edit_lecture_path(lecture) %> </div>
+<% end %>
+<%= link_to "Add new lecture", new_lecture_path, :style=>'color: red;' %>
