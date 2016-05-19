@@ -208,3 +208,5 @@ def bombing_plan(m)
   hash[key] = calculate_damage(r,c,draw_matrix())
   hash
 end
+
+puts group_objects([1, 1, 1, 2, 3, 1, 1])

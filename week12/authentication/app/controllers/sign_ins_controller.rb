@@ -9,7 +9,7 @@ class SignInsController < ApplicationController
     # if @user.nil?
     #   redirect_to sign_in_path, notice: "No such user"
     #   return
-        end
+        # end
       # debugger
 
     if @user.authenticate(user_params[:password])

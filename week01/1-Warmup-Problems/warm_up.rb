@@ -1,8 +1,8 @@
 def faktorial(num)
-	result = 1
+ 	result = 1
   while (num > 0) do
-	result *= num 
-	num -= 1
+	  result *= num 
+	  num -= 1
    end
 	return result
 end
@@ -189,3 +189,35 @@ def number_balanced?(num)
 	end
 end
 
+def palindrome?(string)
+	 string.reverse == string
+end
+
+def longest_palidrome(s)
+	if s.length == 0
+		return 0
+	end
+ 	first = 0
+	last = s.length
+	result = 1
+	while first < last
+		count = first
+		while count <= last
+ 		substr = s[first, count]
+			if substr.reverse == substr
+				if substr.length > result
+					result = substr.length
+				end
+			end
+			count += 1
+		end
+		first += 1
+	end
+	if result > 0
+		return result
+	end
+end
+
+puts longest_palidrome((ARGV[0]))
+
+ # puts palindrome?(ARGV[0])

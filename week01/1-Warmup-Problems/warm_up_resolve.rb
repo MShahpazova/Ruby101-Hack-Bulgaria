@@ -134,3 +134,8 @@ def insert_zeros(number)
   result = arr.join('')
  end
 
+ def max_span(arr)
+  result = []
+   arr.each_with_index {|el|  }
+ end
+
